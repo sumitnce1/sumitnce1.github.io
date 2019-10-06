@@ -29,7 +29,7 @@ h5,
 h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  text-transform: uppercase; }
+  text-transform: none; }
 
 hr.star-light,
 hr.star-primary {
@@ -103,7 +103,7 @@ section.success {
 #mainNav {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: none;
   border: none;
   background: #2C3E50; }
   #mainNav a:focus {
@@ -125,7 +125,7 @@ section.success {
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
-    text-transform: uppercase;
+    text-transform: none;
     color: white;
     border-color: white; }
     #mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
@@ -172,7 +172,7 @@ header.masthead {
     font-size: 2em;
     font-weight: 700;
     display: block;
-    text-transform: uppercase; }
+    text-transform: none; }
   header.masthead .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300; }
